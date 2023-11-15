@@ -9,12 +9,31 @@ body{
     padding: 20px;
 }
 .question-card{
-    text-align: center;
-    padding: 20px;
-    margin-top: 100px;
-    border: solid 2px black;
+    border: solid 3px black;
+    border-radius: 20px;
     width: 50%;
     margin-left: 400px;
-    border-radius: 20px;
+    margin-top: 50px;
+}
+.question{
+    margin-top: 10px;
+    text-align: center;
+}
+ul{
+    margin-top: 20px;
+    margin-left: 360px;
+    list-style: circle;
+}
 
+li{
+    margin-top: 20px;
+}
+
+.c-4{
+    margin-bottom: 20px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 500px;
 }
