@@ -8,6 +8,14 @@ body{
     text-align: center;
     padding: 20px;
 }
+.start-button{
+    margin-left: 750px;
+    margin-top: 10px;
+    border-radius: 10px;
+    width: 100px;
+    padding: 5x;
+    margin-bottom: 20px;
+}
 .question-card{
     border: solid 3px black;
     border-radius: 20px;
