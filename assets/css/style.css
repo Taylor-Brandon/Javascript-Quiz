@@ -16,12 +16,16 @@ body{
     padding: 5x;
     margin-bottom: 20px;
 }
+.time-section{
+    margin-top: -170px;
+    margin-left: 30px;
+}
 .question-card{
     border: solid 3px black;
     border-radius: 20px;
     width: 50%;
     margin-left: 400px;
-    margin-top: 50px;
+    margin-top: 250px;
 }
 .question{
     margin-top: 10px;
@@ -43,7 +47,7 @@ li{
 
 footer{
     text-align: center;
-    margin-top: 500px;
+    margin-top: 370px;
 }
 
 li:hover{
