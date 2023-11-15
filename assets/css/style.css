@@ -1,0 +1,44 @@
+body{
+    font-family: 'Kenia', sans-serif;
+    font-family: 'Lilita One', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+}
+.main-header{
+    text-align: center;
+    padding: 20px;
+}
+.question-card{
+    border: solid 3px black;
+    border-radius: 20px;
+    width: 50%;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+.question{
+    margin-top: 10px;
+    text-align: center;
+}
+ul{
+    margin-top: 20px;
+    margin-left: 360px;
+    list-style: circle;
+}
+
+li{
+    margin-top: 20px;
+}
+
+.c-4{
+    margin-bottom: 20px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 500px;
+}
+
+li:hover{
+    color: red;
+    cursor: grab;
+}
