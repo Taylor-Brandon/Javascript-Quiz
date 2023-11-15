@@ -27,7 +27,7 @@ body{
     margin-left: 400px;
     margin-top: 250px;
 }
-.question{
+#question{
     margin-top: 10px;
     text-align: center;
 }
