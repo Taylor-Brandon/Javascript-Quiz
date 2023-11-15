@@ -37,3 +37,8 @@ footer{
     text-align: center;
     margin-top: 500px;
 }
+
+li:hover{
+    color: red;
+    cursor: grab;
+}
