@@ -13,17 +13,27 @@
     <body>
 <header>
     <h1 class="main-header">Javascript Quiz</h1>
+    <button class="start-button">Start</button>
+    <div class="time-section">
+      <h2 class="time-left"></h2>
+    </div>
 </header>
     <figure class="question-card">
-        <h2 class="question">Question</h2>
+        <h2 id="question"></h2>
         <ul>
-            <li class="c-1">Choice 1</li>
-            <li class="c-2">Choice 2</li>
-            <li class="c-3">Choice 3</li>
-            <li class="c-4">Choice 4</li>
+            <li class="c-1"></li>
+            <li class="c-2"></li>
+            <li class="c-3"></li>
+            <li class="c-4"></li>
         </ul>
+        <button class="next-button">Next</button>
+        <button class="prev-button">Previous</button>
     </figure>
+    <!-- Add this input field where the user can enter initials -->
+<input type="text" id="initialsInput" placeholder="Enter Initials">
+
 <footer>Thank You For Visiting!</footer>
+<script src="./assets/js/script.js"></script>
 </body>
   </main>
 </html>
